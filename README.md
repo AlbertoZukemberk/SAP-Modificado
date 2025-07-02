@@ -53,6 +53,9 @@ A arquitetura original do SAP-1 foi expandida com três blocos funcionais conect
 ## **Tecnologia Utilizada**
 * **Logisim** — Simulador de circuitos digitais de código aberto.
 
+## **Video**
+* https://youtu.be/QKKQU-N-jg8
+
 ## **Autores**
 * **Matheus Augusto**
 * **Marcus Meleiro**
